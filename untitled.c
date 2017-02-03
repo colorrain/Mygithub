@@ -5,6 +5,6 @@
 
 
 int main(int argc, char *argv[]) {
-    char *buf='sdsd';
-    if (buf == 'sdsd') printf("hello");
+    char *buf='sdsds';
+    if (buf == 'sdsds') printf("hello");
 }
